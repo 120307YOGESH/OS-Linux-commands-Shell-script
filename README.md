@@ -901,6 +901,7 @@ done
 $ chmod 755 forin1.sh
 
  ## OUTPUT
+ 
  <img width="658" height="242" alt="image" src="https://github.com/user-attachments/assets/c726f124-c2ce-4d1f-b991-fda22fe90009" />
 
 cat forin2.sh 
@@ -997,6 +998,7 @@ done
 $ chmod 755 forctype.sh
 $ ./forctype.sh 
 ## OUTPUT
+
 <img width="235" height="173" alt="image" src="https://github.com/user-attachments/assets/dd0c90fe-d015-4c71-961c-9e8f3fc95d32" />
 
 cat forctype1.sh 
@@ -1011,6 +1013,7 @@ done
 $ chmod 755 forctype.sh
 $ ./forctype1.sh 
 ## OUTPUT
+
 <img width="369" height="224" alt="image" src="https://github.com/user-attachments/assets/64e9eb4d-5f29-4058-a517-5d54fa119cc1" />
 
 cat fornested1.sh 
@@ -1186,6 +1189,8 @@ set +x
 ```
 ## OUTPUT
  ./argshift.sh 1 2 3
+
+ 
  <img width="509" height="421" alt="image" src="https://github.com/user-attachments/assets/7e135e78-4f98-446a-abe2-04a025f50a5d" />
 
  

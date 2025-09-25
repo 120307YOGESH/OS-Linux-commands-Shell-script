@@ -43,11 +43,13 @@ s.n. dasgupta
 cat < file1
 ## OUTPUT
 
+cat < file2
+
 <img width="662" height="132" alt="image" src="https://github.com/user-attachments/assets/1e5d473e-2849-4738-b188-331828ee85a3" />
 
 
-cat < file2
 ## OUTPUT
+cat > file2
 
 <img width="662" height="139" alt="image" src="https://github.com/user-attachments/assets/806de9e1-5e18-4ea8-9d63-391007655fe5" />
 
@@ -382,7 +384,7 @@ cat > file21
 sort file21
 ## OUTPUT
 
-<img width="353" height="170" alt="image" src="https://github.com/user-attachments/assets/4c0453e1-3374-4549-9e63-8cc9b99b2df3" />
+<img width="652" height="139" alt="image" src="https://github.com/user-attachments/assets/ab9fb879-2df2-4fab-8a81-5591410e4fa9" />
 
 
 cat > file22
@@ -565,6 +567,7 @@ abcd
  
 echo $?
  ## OUTPUT
+ 
 <img width="672" height="60" alt="image" src="https://github.com/user-attachments/assets/5ab28c01-4bbc-47eb-bd6c-d92a79609cc5" />
 
 
@@ -635,7 +638,9 @@ fi
  ```
 ./psswdperm.sh
 ## OUTPUT
+
 <img width="557" height="213" alt="image" src="https://github.com/user-attachments/assets/c64be32b-c019-4ef8-8092-85590805eeea" />
+
 
 <img width="557" height="76" alt="image" src="https://github.com/user-attachments/assets/cfca9c06-b2fe-4d4c-b2be-9ff678d37ba7" />
 
@@ -995,6 +1000,8 @@ Khammam
 
 ## OUTPUT
 
+<img width="389" height="107" alt="image" src="https://github.com/user-attachments/assets/dadf3ad2-b461-456b-bebc-66350e81762c" />
+
 
 cat forctype.sh 
 ```bash
@@ -1108,6 +1115,7 @@ $ chmod 755 exread.sh
 $ ./exread.sh 
 ## OUTPUT
 
+<img width="652" height="160" alt="image" src="https://github.com/user-attachments/assets/3764478b-435e-4cdb-9ae5-b09b94a6657b" />
 
 
 
@@ -1122,9 +1130,8 @@ $ chmod 755 exread1.sh
 
 ## OUTPUT
 
+<img width="652" height="120" alt="image" src="https://github.com/user-attachments/assets/27c6e73e-207b-45c0-ac00-a1c0213f5190" />
 
-
-$ ./exread1.sh 
  
 cat funcex.sh
 ```bash
@@ -1143,11 +1150,15 @@ fi
 ```
 ## OUTPUT
  ./funcex.sh 
+ 
+<img width="652" height="91" alt="image" src="https://github.com/user-attachments/assets/7a2387da-7bd1-4d4d-981c-d03281319e65" />
 
  
 
  ./funcex.sh 1 2
  
+ <img width="652" height="70" alt="image" src="https://github.com/user-attachments/assets/af81279b-d7e1-4959-b9dd-1999453d0b29" />
+
 
  
 cat argshift.sh
@@ -1161,7 +1172,10 @@ done
 $ chmod 777 argshift.sh
 
 ## OUTPUT
+
 $ ./argshift.sh 1 2 3
+
+<img width="652" height="139" alt="image" src="https://github.com/user-attachments/assets/6e1ac051-c43c-462f-a9e2-4558f99991bc" />
 
 
  
@@ -1182,6 +1196,8 @@ $ chmod 777 argshift.sh
 ## OUTPUT
 
 $ ./argshift.sh 1 2 3
+
+<img width="652" height="139" alt="image" src="https://github.com/user-attachments/assets/66c2dd2c-d534-46d0-8ba6-be0fce057f7b" />
 
 
 cat argshift.sh
@@ -1230,6 +1246,7 @@ ubcdfghj
 ```
 awk -f nc.awk data.dat
 ## OUTPUT 
+
 <img width="551" height="273" alt="image" src="https://github.com/user-attachments/assets/e12e67a8-89a1-498f-bc77-67fbe798d0b0" />
 
 
@@ -1261,6 +1278,7 @@ fi
 ```
 
 ## OUTPUT 
+
 <img width="551" height="116" alt="image" src="https://github.com/user-attachments/assets/03dabcbd-e8b5-469c-a7ca-a3366a17ed96" />
 
 
